@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\WebApplication1
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\appsettings.Development.json
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\appsettings.json
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\WebApplication1.dll
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\WebApplication1.deps.json
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\WebApplication1.runtimeconfig.json
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\WebApplication1.pdb
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\AngleSharp.dll
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\YoutubeDLSharp.dll
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net10.0\linux-arm64\publish\YoutubeExplode.dll

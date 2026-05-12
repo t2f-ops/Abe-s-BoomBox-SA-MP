@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net8.0\linux-x64\publish\WebApplication1.pdb
+C:\Users\user\Desktop\Abe's SAMP dev\ABB\WebApplication1\bin\Release\net8.0\linux-x64\publish\WebApplication1
